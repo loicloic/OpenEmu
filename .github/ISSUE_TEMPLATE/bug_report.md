@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Report a reproducible problem with OpenEmu to help us resolve it
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 Summary of issue
 
 Read https://github.com/OpenEmu/OpenEmu/wiki/Troubleshooting:-Reporting-problems
